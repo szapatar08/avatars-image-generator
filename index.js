@@ -44,7 +44,7 @@ const options = {
     },
     servers: [
       {
-        url: `http://localhost:${port}/`,
+        url: `https://avatar-generator-5ki3.onrender.com`,
       },
     ],
   },
